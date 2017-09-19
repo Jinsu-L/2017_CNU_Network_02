@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NW_02.dir/main.cpp.o  -o NW_02 
